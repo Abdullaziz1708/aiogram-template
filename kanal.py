@@ -1,0 +1,1 @@
+kanallar='https://t.me/Brend_Botlar\nhttps://t.me/nevermorebooks\nhttps://t.me/biznesplus_uz\nhttps://t.me/Kitoblar_apk\nhttps://t.me/world_geography_uz\nhttps://t.me/IT_video_darsliklar\nhttps://t.me/kitoblar_pdf\nhttps://t.me/raqamli_kutubxona\nhttps://t.me/KompyuterProgrammalarUZ\nhttps://t.me/newlink_uz'
